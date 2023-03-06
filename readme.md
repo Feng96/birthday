@@ -1,13 +1,3 @@
-## 生日快乐
-
-> <b>修改config.js的配置就可以为您心爱的人做一个超具创意的网页生日快乐呀,喜欢的话fork or star一下呗~</b>
-
-<img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
-
-## TODO
-* [x] 每行祝福文字可以配一张图片
-* [ ] 配图支持旋转
-
 ### config.js 说明
 > 温馨提示: 每句话丶每个图片地址丶每个按钮文字的那一行，最后都要以**英文逗号**结尾哦！
 ```text
